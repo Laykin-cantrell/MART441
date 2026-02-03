@@ -1,6 +1,6 @@
 body {
   background-color: HotPink;
-  color: Black;
+  color: rgb(59, 52, 52);
   font-family: "Times New Roman", Times, serif;
   margin: 0;
   padding: 40px;
@@ -14,7 +14,7 @@ h1 {
   max-width: 950px;
   letter-spacing: 1px;
   background-color: LightPink;
-  color: #EBCBA2;
+  color: #000000;
 }
 
 h2, h3 {
